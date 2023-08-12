@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Application Dev and Game Dev**
 
-- 👨‍💻 All of my projects are available at [alexsgith.github.io/Portfolio/#](alexsgith.github.io/Portfolio/#)
+- 👨‍💻 All of my projects are available at [alexsavi.com](alexsavi.com)
 
 - 💬 Ask me about **Game Dev, App Dev, UI/UX**
 
