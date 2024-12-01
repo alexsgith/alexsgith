@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋,  I am Alex Savi</h1>
-<h3 align="center">Coder And Designer</h3>
+<h3 align="center">Game Developer and Designer</h3>
 <image align="right" width =400 src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></image>
   
 - 🔭 I’m currently **Freelancer**
 
-- 🌱 I’m currently learning **Designing, Coding**
+- 🌱 I’m currently learning **Gaming,Designing, Coding**
 
 - 👯 I’m looking to collaborate on **Application Dev and Game Dev**
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **Game Dev, App Dev, UI/UX**
 
 - 📫 How to reach me **alex.savi.kv@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17CCWpmoLIlzxmb5l4XnvbrmJUU_q4Sg/view?usp=sharing](https://drive.google.com/file/d/17CCWpmoLIlzxmb5l4XnvbrmJUU_q4Sg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
