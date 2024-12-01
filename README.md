@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Gaming,Designing, Coding**
 
-- 👯 I’m looking to collaborate on **Application Dev and Game Dev**
+- 👯 I’m looking to collab on **Application Dev and Game Dev**
 
 - 👨‍💻 All of my projects are available at [alexsavi.com](alexsavi.com)
 
