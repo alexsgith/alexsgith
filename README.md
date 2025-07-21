@@ -8,7 +8,7 @@
 
 - 👯 Looking to collab on **Application Dev and Game Dev**?
 
-- 👨‍💻 All of my projects are available at [alexsavi.com](alexsavi.com)
+- 👨‍💻 All of my projects are available at [alexsavi.com](https://www.linkedin.com/in/alexsavi/)
 
 - 💬 Ask me about **Game Dev, App Dev, UI/UX**
 
