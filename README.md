@@ -2,11 +2,11 @@
 <h3 align="center">Game Developer and Designer</h3>
 <image align="right" width =400 src="https://img.freepik.com/premium-vector/man-sits-desk-with-laptop-bottle-beer_1013341-201183.jpg"></image>
   
-- 🔭 I’m currently **Freelancer**
+- 🔭 I’m **Game Programmer**
 
-- 🌱 I’m currently learning **Gaming,Designing, Coding**
+- 🌱 Dealing with **Gaming Dev, UI/UX, Web, App**
 
-- 👯 I’m looking to collab on **Application Dev and Game Dev**
+- 👯 Looking to collab on **Application Dev and Game Dev**?
 
 - 👨‍💻 All of my projects are available at [alexsavi.com](alexsavi.com)
 
